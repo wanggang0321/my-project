@@ -11,7 +11,7 @@ import axios from 'axios'
 export default {
     name : 'view1',
     mounted: function() {
-        axios.post('/jhb/getslides')
+        axios.post('')
             .then(function (response) {
                 console.log(response);
             })
