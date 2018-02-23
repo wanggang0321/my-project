@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>我是View1</h1>
+        <h1>我是View1，测试</h1>
         <a href=""> 我是View1 </a>
     </div>
 </template>
